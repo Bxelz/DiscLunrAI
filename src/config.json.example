@@ -1,0 +1,17 @@
+{
+    "token": "your_discord_bot_token_here",
+    "devtoken": "your_discord_dev_bot_token_here",
+    "groq": "your_groq_token_here",
+    "dev": "false",
+    "prefix": "l!",
+    "color": "0072ff",
+    "clientid": "1186798910354771978",
+    "status": "The Full Moon.",
+    "activty": "WATCHING",
+    "xyz": [
+        "565852514033860629",
+        ""
+    ],
+    "mongoURI": "your_mongodb_connection_string_(fortheaitostoretokenlimits)",
+    "default_limit": 5
+}
